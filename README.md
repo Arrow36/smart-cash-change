@@ -6,7 +6,9 @@
 
 **[打开计算器](https://arrow36.github.io/smart-cash-change/)**
 
-![有零有整界面预览](docs/preview.png)
+<a href="docs/preview.png"><img src="docs/preview.png" alt="有零有整界面预览" width="450"></a>
+
+点击截图查看原图。
 
 ## 为什么需要它？
 
