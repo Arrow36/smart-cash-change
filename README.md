@@ -6,7 +6,7 @@
 
 **[打开计算器](https://arrow36.github.io/smart-cash-change/)**
 
-<a href="docs/preview.png"><img src="docs/preview.png" alt="有零有整界面预览" width="450"></a>
+[![有零有整界面预览](docs/preview.png)](https://raw.githubusercontent.com/Arrow36/smart-cash-change/main/docs/preview.png)
 
 点击截图查看原图。
 
